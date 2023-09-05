@@ -1,1 +1,1 @@
-# AnomalyDetectionModel-HiddenMarkov
+# AnomalyDetection-HiddenMarkovModel
